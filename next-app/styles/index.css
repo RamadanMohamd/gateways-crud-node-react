@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.carousel-height {
+    min-height: calc(100vh - 90px);
+    max-height: calc(100vh - 90px);
+}
